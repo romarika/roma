@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1B319BDaBF4ee2e117a61d502Fd9dda3C8082143",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1b319bdabf4ee2e117a61d502fd9dda3c8082143",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Octopus Shifter Lovers Club",
+  "SYMBOL": "OS",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/octopus-shifter",
+  "SHOW_BACKGROUND": true
+}
